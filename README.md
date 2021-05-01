@@ -1,6 +1,7 @@
 # Task list
 
 1. create footer component - your name - mobile number
+2. create component register
 
 # Getting Started with Create React App
 
