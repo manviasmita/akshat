@@ -1,3 +1,7 @@
+# Task list
+
+1. create footer component - your name - mobile number
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
